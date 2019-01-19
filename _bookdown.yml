@@ -1,5 +1,4 @@
-book_filename: "ug-overview"
-new_session: yes
+book_filename: "book-template"
 output_dir: "docs"
 delete_merged_file: true
 language:
