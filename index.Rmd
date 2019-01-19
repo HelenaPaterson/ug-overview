@@ -16,11 +16,12 @@ description: An overview of our undergraduate practical Teaching in Psychology u
 This book presents an overview of our undergraduate practical Teaching in Psychology using R and the Tidyverse for reproducible data analysis and open educational practices for developing good research practices.  We highlight briefly what we have done in developing our practcal methodology and analysis classes; and give some examples that can be adapted to different teaching settings.  We then link to resources in the different parts of our curriculum and assessment.
 
 If you want to skip ahead to the content for differnet resources, here are some quick links:
-  *UG Level 1
-  *UG Level 2
-  *UG Level 3
-  *webex R Package for making exercises
-  *assessr R Package for making and marking assessments
+
+* UG Level 1
+* UG Level 2
+* UG Level 3
+* webex R Package for making exercises
+* assessr R Package for making and marking assessments
 
 ## Who we are
 
@@ -32,12 +33,12 @@ This book gives an overview of our approach for Undergraduat teaching.  It is a 
 
 Sections include:
 
-*How to get started
-*Pedadogical Approach
-*Practical Teaching for L1
-*Practical Teaching for L2
-*Practical Teaching for L3
-*Exercises
-*Assessment
-*Evaluation of the approach
+* How to get started
+* Pedadogical Approach
+* Practical Teaching for L1
+* Practical Teaching for L2
+* Practical Teaching for L3
+* Exercises
+* Assessment
+* Evaluation of the approach
 
