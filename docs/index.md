@@ -9,3 +9,7 @@ link-citations: yes
 description: An overview of our undergraduate practical Teaching in Psychology using R and the Tidyverse for reproducible data analysis and open educational practices and in our pedadogical approach
 ---
 
+
+```r
+bookdown::render_book("index.Rmd", bookdown::gitbook())
+```

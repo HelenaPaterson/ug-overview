@@ -10,6 +10,10 @@ description: An overview of our undergraduate practical Teaching in Psychology u
 ---
 
 
+```r
+bookdown::render_book("index.Rmd", bookdown::gitbook())
+```
+
 <!--chapter:end:index.Rmd-->
 
 
