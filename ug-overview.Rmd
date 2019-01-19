@@ -1,11 +1,7 @@
-# Undergraduate PsyTeachR overview
+# Undergraduate Practical Teaching
 
-
-
-```{r  render_chunk, eval = FALSE}
-#for rendering the book
+```{r, eval = FALSE}
 
 bookdown::render_book("index.Rmd", bookdown::gitbook())
-
 
 ```

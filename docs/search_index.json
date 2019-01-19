@@ -1,3 +1,4 @@
 [
-["undergraduate-psyteachr-overview.html", "Chapter 1 Undergraduate PsyTeachR overview", " Chapter 1 Undergraduate PsyTeachR overview #for rendering the book bookdown::render_book(&quot;index.Rmd&quot;, bookdown::gitbook()) "]
+["index.html", "Undergraduate Practical Course for Psychology Chapter 1 Introduction", " Undergraduate Practical Course for Psychology psyTeachR 2019-01-19 Chapter 1 Introduction "],
+["undergraduate-practical-teaching.html", "Chapter 2 Undergraduate Practical Teaching", " Chapter 2 Undergraduate Practical Teaching bookdown::render_book(&quot;index.Rmd&quot;, bookdown::gitbook()) "]
 ]

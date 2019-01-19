@@ -1,7 +1,7 @@
 --- 
 title: "Undergraduate Practical Course for Psychology"
 author: "psyTeachR"
-date: "2019-01-19"
+date: "`r Sys.Date()`"
 site: "bookdown::bookdown_site"
 documentclass: book
 biblio-style: apalike
@@ -12,16 +12,4 @@ description: An overview of our undergraduate practical Teaching in Psychology u
 # Introduction
 
 
-
-
-<!--chapter:end:index.Rmd-->
-
-# Undergraduate Practical Teaching
-
-
-```r
-bookdown::render_book("index.Rmd", bookdown::gitbook())
-```
-
-<!--chapter:end:ug-overview.Rmd-->
 

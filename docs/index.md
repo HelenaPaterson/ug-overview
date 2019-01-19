@@ -13,15 +13,3 @@ description: An overview of our undergraduate practical Teaching in Psychology u
 
 
 
-
-<!--chapter:end:index.Rmd-->
-
-# Undergraduate Practical Teaching
-
-
-```r
-bookdown::render_book("index.Rmd", bookdown::gitbook())
-```
-
-<!--chapter:end:ug-overview.Rmd-->
-
