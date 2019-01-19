@@ -2,10 +2,9 @@
 
 
 
-```{r  render_chunk, eval = FALSE}
+
+```r
 #for rendering the book
 
 bookdown::render_book("index.Rmd", bookdown::gitbook())
-
-
 ```
